@@ -1,0 +1,7 @@
+Semantic gap - Label and Pixel Numbers
+Algorithm must be able to discen, different lightings, inrercalss variations, background clutter etc 
+Rather tha hardwired rules, data driver approach
+1. Coillect a dataset 2. USe machine learning to Train 3. Predict the label
+Example dataset: CIFAR 10 data set
+Nearest neighbor algorithm
+L1 Manhattan distance  to compare images
